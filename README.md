@@ -8,13 +8,6 @@ SimpleMediator is a lightweight and easy-to-use mediator library designed for .N
 - **Asynchronous processing** – Built-in support for async operations.
 - **Decoupled architecture** – Reduces tight coupling in your codebase.
 
-## Installation
-You can install SimpleMediator via NuGet:
-
-```shell
-dotnet add package SimpleMediator
-```
-
 ## Usage
 ### 1. Define a request
 Create a request that will be handled.
