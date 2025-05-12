@@ -1,0 +1,6 @@
+@SimpleApi_HostAddress = http://localhost:5198
+
+GET {{SimpleApi_HostAddress}}/api/items
+Accept: application/json
+
+###
